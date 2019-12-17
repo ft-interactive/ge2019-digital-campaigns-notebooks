@@ -11,7 +11,7 @@ Jupyter notebooks by [David Blood](https://twitter.com/davidcblood) used in the 
 
 ### Facebook Ad Library
 
-1. [Facebook Ad Library data wrangling](https://nbviewer.jupyter.org/github/ft-interactive/ge2019-digital-campaigns-notebooks/blob/master/01-wrangle-ad-library-data.ipynb)
+1. [Facebook Ad Library data wrangling](https://nbviewer.jupyter.org/github/ft-interactive/ge2019-digital-campaigns-notebooks/blob/master/facebook-ad-library/01-wrangle-ad-library-data.ipynb)
 2. Non-party campaigners (TK)
 3. Number of active ads per day (TK)
 
