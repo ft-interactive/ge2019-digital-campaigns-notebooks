@@ -13,7 +13,7 @@ Jupyter notebooks by [David Blood](https://twitter.com/davidcblood) used in the 
 
 1. [Facebook Ad Library data wrangling](https://nbviewer.jupyter.org/github/ft-interactive/ge2019-digital-campaigns-notebooks/blob/master/facebook-ad-library/01-wrangle-ad-library-data.ipynb)
 2. [Non-party campaigners](https://nbviewer.jupyter.org/github/ft-interactive/ge2019-digital-campaigns-notebooks/blob/master/facebook-ad-library/02-non-party-campaigners.ipynb)
-3. Number of active ads per day (TK)
+3. [Number of active ads per day](https://nbviewer.jupyter.org/github/ft-interactive/ge2019-digital-campaigns-notebooks/blob/master/facebook-ad-library/03-active-ads-per-day.ipynb)
 
 ### Google Political Advertising Transparency Report
 
